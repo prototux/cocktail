@@ -4,6 +4,8 @@ This is my personal color scheme i use in various things, including my terminal 
 
 It was designed to be bright (but not flashy!) on dark gray backgrounds.
 
+It is not (yet) considered stable, so there will probably be changes in the colors.
+
 As it was mainly designed for my terminal, which i use all the time, it was also designed to not induce eye strain after several hours. 
 
 For now only the 8 primary colors (for terminal, with bright versions) are designed, but i plan to extend it to be able to use it for code highlighting.
