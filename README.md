@@ -25,3 +25,7 @@ I'll upload config files soon.
 * Magenta: #d33577
 * Cyan: #3ec1c5
 * White/Foreground: #dfdfdf
+
+# Screenshot
+(note: the background is at 90% opacity here)
+![screenshot](https://i.imgur.com/2PXPnkR.png)
