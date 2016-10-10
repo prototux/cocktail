@@ -14,4 +14,4 @@ Inspirations for this color scheme were mainly molokai and breeze dark.
 
 # Usage
 
-Pick your poison in configs/ or build it using [color-shaker](https://github.com/prototux/color-shaker)
+Pick your poison in configs/ or build it using [color-shaker](https://github.com/prototux/colorshaker)
