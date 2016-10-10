@@ -2,7 +2,14 @@
 Color=16,16,16
 
 [BackgroundIntense]
-Color=36,36,36
+Color=16,16,16
+
+[Foreground]
+Color=223,223,223
+
+[ForegroundIntense]
+Color=223,223,223
+Bold=true
 
 [Color0]
 Color=53,53,53
@@ -23,10 +30,10 @@ Color=150,205,32
 Color=175,235,35
 
 [Color3]
-Color=220,131,35
+Color=221,218,37
 
 [Color3Intense]
-Color=240,142,37
+Color=239,237,81
 
 [Color4]
 Color=30,128,204
@@ -52,13 +59,7 @@ Color=223,223,223
 [Color7Intense]
 Color=245,245,245
 
-[Foreground]
-Color=223,223,223
-
-[ForegroundIntense]
-Color=245,245,245
-
 [General]
-Description=Cocktail
-Opacity=0.90000000000000002
+Description=cocktail
+Opacity=1
 Wallpaper=

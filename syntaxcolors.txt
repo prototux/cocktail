@@ -1,0 +1,14 @@
+# Syntax hightling definition
+
+# beige	string, char
+# orange	number, float
+# cyan	boolean, nil, null
+# green	function, methods
+# blue	variables, attributes
+# red		conditional, repeat, label, keyword, types, storageclass, structure, typedef, exception
+# white	operator
+# green	preproc
+# gray	comment
+# white	todo, special
+
+comment=dark

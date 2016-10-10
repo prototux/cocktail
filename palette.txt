@@ -7,80 +7,80 @@
 ##########
 
 # Darker dark for terminal background, used at 90% opacity
-dark_dark #101010
+dark_dark=#101010
 
 # Dark, the gray color for terminal, also the standard background
-dark #353535
-bright_dark #535e69
+dark=#353535
+bright_dark=#535e69
 
 ##########
 ##### Light/white colors
 ##########
 
 # Light, a white-ish, used for white in terminal and symbols
-light #dfdfdf
-bright_light #f5f5f5
+light=#dfdfdf
+bright_light=#f5f5f5
 
 ##########
 ##### Red colors
 ##########
 
 # Red, used for keywords and variables types/cast
-red #e13232
-bright_red #ff3838
+red=#e13232
+bright_red=#ff3838
 
 # Salmon, may be used, may be not
-salmon #f99c66
-bright_salmon #f9b186
+salmon=#f99c66
+bright_salmon=#f9b186
 
 ##########
 ##### Green colors
 ##########
 
 # Green, used for functions/methods
-green #96cd20
-bright_green #afeb23
+green=#96cd20
+bright_green=#afeb23
 
 # Turquoise, may be used, may be not
-turquoise #47e5a6
-bright_turquoise #6bf4bd
+turquoise=#47e5a6
+bright_turquoise=#6bf4bd
 
 ##########
 ##### Orange/yellow colors
 ##########
 
 # Orange, the "yellow" for terminal, also the integers
-orange #dc8323
-bright_orange #f08e25
+orange=#dc8323
+bright_orange=#f08e25
 
 # Standard yellow, not used yet
-yellow #ddda25
-bright_yellow #efed51
+yellow=#ddda25
+bright_yellow=#efed51
 
 # Beige, used for strings in code
-beige #fffd99
-bright_beige #fcfbb3
+beige=#fffd99
+bright_beige=#fcfbb3
 
 ##########
 ##### Blue colors
 ##########
 
 # Blue, used for variables
-blue #1e80cc
-bright_blue #20a0e0
+blue=#1e80cc
+bright_blue=#20a0e0
 
 # Cyan
-cyan #3ec1c5
-bright_cyan #44d7d9
+cyan=#3ec1c5
+bright_cyan=#44d7d9
 
 ##########
 ##### Purple/rose colors
 ##########
 
 # Magenta
-magenta #d33577
-bright_magenta #e73a85
+magenta=#d33577
+bright_magenta=#e73a85
 
 # Purple, used for booleans
-purple #8420c1
-bright_purple #9b41d3
+purple=#8420c1
+bright_purple=#9b41d3
